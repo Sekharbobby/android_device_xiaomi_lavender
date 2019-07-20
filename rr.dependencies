@@ -9,7 +9,7 @@
       "remote":"github",
       "repository":"thephotogenicbug/vendor_xiaomi_lavender",
       "target_path":"vendor/xiaomi/lavender",
-      "branch":"rr-pie"
+      "branch":"mkp"
    },
    {
       "remote":"github",
